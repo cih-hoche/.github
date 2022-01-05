@@ -4,5 +4,5 @@ Voici le GitHub du CIH !
 
 Vous trouverez ici tous nos projets Open Source !
 
-Pour plus d'informations, rendez vous sur notre [site](https://cih-hoche.github.io/) !
+Pour plus d'informations, rendez vous sur notre [site](https://cihoche.fr/) !
 
